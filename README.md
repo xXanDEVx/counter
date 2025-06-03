@@ -10,7 +10,7 @@ A simple and interactive counter application developed with HTML, CSS, and JavaS
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- ## How to use
+## How to use
 - 1 . Clone this repository:
 ```bash
   git clone https://github.com/xXanDEVx/counter
